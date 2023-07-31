@@ -1,16 +1,44 @@
-# my_portfolio
 
-A new Flutter project.
+# My Portfolio
 
-## Getting Started
+**Introducing** a stunning responsive portfolio, built with Flutter for web and Android. Showcase your skills, projects, and achievements with a sleek, user-friendly design. Enjoy smooth animations and seamless performance across devices. Elevate your digital presence with this captivating portfolio.
+## Features
 
-This project is a starting point for a Flutter application.
+- Full responsive
 
-A few resources to get you started if this is your first Flutter project:
+- works on web and android App
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## demo
+![Portfolio_Made_with_Clipchamp_AdobeExpress](https://github.com/sandeepmaddheshiya/Responsive-Portfolio-Flutter/assets/113048079/14dbaf13-579b-40d3-b924-05a05c7798b7)
+
+
+
+## Live Here
+- [@Click Here](https://sandeepmaddheshiya.github.io/#/)
+
+## Authors
+
+- [@sandeepmaddheshiya](https://github.com/sandeepmaddheshiya)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at sandeep.maddheshiyacs20@gmail.com
+
+
+# Hi, I'm Sandeep Maddheshiya! 👋
+
+
+## 🚀 About Me
+I'm a full stack Java/flutter developer & UI/UX Designer.
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeepmaddheshiya/)
+
+
+## 🛠 Skills
+Java Fullstack Development, Flutter Development, Python, SQL, C, C++, HTML, CSS , JavaScript
+
